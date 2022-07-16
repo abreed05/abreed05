@@ -1,4 +1,4 @@
-I'm Aaron Breeden, an IT professional with 9 years of professional IT experience ranging from help desk, sysadmin, and now into devops. 
+I'm Aaron Breeden, an IT professional with roughly a decade of professional IT experience ranging from help desk, sysadmin, and now into devops. 
 
 In both my professional and personal life I am a linux geek at heart and love the aspect of automation. Put simply I'm lazy and I do not like 
 to do a task more than once if I can avoid it. 
